@@ -1,3 +1,5 @@
+// how the data is put in memory and accessed on that basis there are two categorizations 
+// of data types 1. primitive and 2. non-primitive
 "use strict";  // treat all JS code as newer version
 // alert(4+4);  // this way of calling alert is used in browser from console, not in nodejs
 
