@@ -102,12 +102,15 @@ const {courseInstructor: instructor} = course;
 // console.log(courseInstructor);
 console.log(instructor);
 
+// API can be in object form as below
 // {
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
 
+
+// API can be in array form and in that array there can also be objects as below
 [
     {},
     {},
